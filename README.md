@@ -4,8 +4,7 @@ Essay Ideas
 
 Game cloning:
 Is it okay to clone another studios game?
-copyright issues
-digital watermarking
+copyright issues, digital watermarking, Intellectual Property
 
 
 Sources:
